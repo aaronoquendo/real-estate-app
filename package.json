@@ -22,7 +22,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage" : "https://aaronoquendo.com/portfolio/projects/real-estate-application/app/",
   "browserslist": [
     ">0.2%",
     "not dead",
